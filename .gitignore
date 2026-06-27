@@ -1,0 +1,25 @@
+/vendor/
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Laravel cache & storage
+.phpunit.cache
+.phpunit.result.cache
+/public/build
+public/hot
+public/storage
+storage/*.key
+storage/pail
+
+# OS & Archives
+.DS_Store
+Thumbs.db
+*.zip
+
+# Database
+database/*.sqlite
+database/*.db
+database/*.sqlite3
