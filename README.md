@@ -27,7 +27,7 @@ Sebelum memulai, pastikan sistem Anda sudah terinstal:
 
 1. **Clone Repository**
    ```bash
-   git clone <URL_REPOSITORY_GITHUB_KAMU>
+   git clone https://github.com/DiandraCahya/Gatot-AC-Mobil.git
    cd Tugas-Akhir
    ```
 
@@ -85,4 +85,4 @@ Sebelum memulai, pastikan sistem Anda sudah terinstal:
 Aplikasi sekarang sudah berjalan dan dapat diakses di browser melalui: **[http://localhost:8000](http://localhost:8000)**
 
 ---
-*Dibuat untuk keperluan Tugas Akhir.*
+*Dibuat untuk keperluan Tugas Akhir (RPL - SMKN 2 SURABAYA).*
