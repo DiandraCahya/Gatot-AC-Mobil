@@ -28,7 +28,7 @@ Sebelum memulai, pastikan sistem Anda sudah terinstal:
 1. **Clone Repository**
    ```bash
    git clone https://github.com/DiandraCahya/Gatot-AC-Mobil.git
-   cd Tugas-Akhir
+   cd Gatot-AC-Mobil
    ```
 
 2. **Install Dependensi Backend (PHP)**
